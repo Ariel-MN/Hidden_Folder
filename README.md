@@ -1,6 +1,6 @@
 # Hidden Folder
 
-## A program that hide folders from Windows OS interface.
+## A program that hide folders efficiently from Windows OS interface.
 
 <br>
 
