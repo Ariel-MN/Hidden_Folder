@@ -48,7 +48,9 @@
    
   <br>
   
-  <img src="docs/Screenshot_3.png"> <img src="docs/Screenshot_4.png">
+  <img src="docs/Screenshot_3.png">
+  
+  <img src="docs/Screenshot_4.png">
      
   <br>
   
