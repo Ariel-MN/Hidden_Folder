@@ -35,18 +35,22 @@
 
 <br>
 
+<hr>
+
 ### Screenshots:
 
-![Screenshot](docs/Screenshot_1.png)
-
-<br>
-
-![Screenshot](docs/Screenshot_2.png)
-
-<br>
-
-![Screenshot](docs/Screenshot_3.png) ![Screenshot](docs/Screenshot_4.png)
-
-<br>
-
-![Screenshot](docs/Screenshot_5.png)
+<p align="center">
+  <img src="docs/Screenshot_1.png">
+  
+  <br>
+  
+  <img src="docs/Screenshot_2.png">
+   
+  <br>
+  
+  <img src="docs/Screenshot_3.png"> <img src="docs/Screenshot_4.png">
+     
+  <br>
+  
+  <img src="docs/Screenshot_5.png">
+</p>
