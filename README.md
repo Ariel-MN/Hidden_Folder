@@ -40,19 +40,19 @@
 ### Screenshots:
 
 <p align="center">
-  <img src="docs/Screenshot_1.png">
+  <img src="docs/Screenshot_1.png" alt="Screenshot">
   
   <br>
   
-  <img src="docs/Screenshot_2.png">
+  <img src="docs/Screenshot_2.png" alt="Screenshot">
    
   <br>
   
-  <img src="docs/Screenshot_3.png">
+  <img src="docs/Screenshot_3.png" alt="Screenshot">
   
-  <img src="docs/Screenshot_4.png">
+  <img src="docs/Screenshot_4.png" alt="Screenshot">
      
   <br>
   
-  <img src="docs/Screenshot_5.png">
+  <img src="docs/Screenshot_5.png" alt="Screenshot">
 </p>
