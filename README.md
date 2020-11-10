@@ -27,7 +27,7 @@
   <br>
   Check it on [VirusTotal](https://www.virustotal.com): [Hidden-1.7-setup.exe](https://www.virustotal.com/gui/file/0c33ac830533420d07c4305c5a011bea27f0a605e1bb646adc40b5608e94ad0b/detection)
 
-- [Documentation](https://github.com/Ariel-MN/Hidden_Folder/wiki)
+- [Project wiki](https://github.com/Ariel-MN/Hidden_Folder/wiki)
 
 <br>
 
