@@ -4,6 +4,7 @@
 [![Updated Repository](https://badges.pufler.dev/updated/Ariel-MN/Hidden_Folder)](https://github.com/Ariel-MN/Hidden_Folder/)
 [![Visits Repository](https://badges.pufler.dev/visits/Ariel-MN/Hidden_Folder)](https://github.com/Ariel-MN/Hidden_Folder/)
 
+[![Project Wiki](https://img.shields.io/badge/project-wiki-9cf)](https://github.com/Ariel-MN/Hidden_Folder/wiki)
 [![Project Study](https://img.shields.io/badge/project-study-informational)](https://montesariel.com/portfolio/project-2)
 [![Download Installer](https://img.shields.io/badge/download-installer-green)](https://github.com/Ariel-MN/Hidden_Folder/raw/master/Hidden-1.7-setup.exe)
 
@@ -26,8 +27,6 @@
   0c33ac830533420d07c4305c5a011bea27f0a605e1bb646adc40b5608e94ad0b
   <br>
   Check it on [VirusTotal](https://www.virustotal.com): [Hidden-1.7-setup.exe](https://www.virustotal.com/gui/file/0c33ac830533420d07c4305c5a011bea27f0a605e1bb646adc40b5608e94ad0b/detection)
-
-- [Project wiki](https://github.com/Ariel-MN/Hidden_Folder/wiki)
 
 <br>
 
