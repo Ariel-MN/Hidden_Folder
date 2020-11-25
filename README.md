@@ -12,7 +12,13 @@
 
 <br>
 
-### Information:
+### :cloud: Instalation
+
+Download: [Hidden-1.7-setup.exe](https://github.com/Ariel-MN/Hidden_Folder/raw/master/Hidden-1.7-setup.exe)
+
+<br>
+
+### :information_source: Information
 
 - **Requirements:** Windows OS, Python 3.7 or higer.
 
